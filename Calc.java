@@ -34,7 +34,7 @@ public class Calculator
     }
     public multiplication(int x, int y)
     {
-        // return x *y;
+         return x *y;
 	}
 
     public void calc(int ops){
