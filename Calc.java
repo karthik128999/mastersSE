@@ -1,7 +1,12 @@
+
+// Replica of https://stackoverflow.com/a/2735664/3262852 since the code itself does not matter, 
+// We need to learn about working in group on github
+
 package org.com;
 
 import java.lang.*; 
 import java.util.*; 
+
 public class Calculator 
 { 
     private int solution; 
@@ -15,20 +20,20 @@ public class Calculator
         Scanner operators = new Scanner(System.in); 
         Scanner operands = new Scanner(System.in); 
     } 
- 
+
+    public int addition(int x, int y) 
+    { 
+       //return x + y; 
+    } 
     public int subtraction(int x, int y) 
     { 
        //return x - y; 
-    }
-    public int addition(int x,int y)
-    {
-	//return x + y;
     } 
     public int multiplication(int x, int y) 
     {     
        //return x * y; 
-    }
-   public int division(int x, int y) 
+    } 
+    public int division(int x, int y) 
     { 
        //solution = x / y; 
        //return solution; 
