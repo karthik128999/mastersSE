@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@karthik128999 
-SukumarUA
-/
-Assignment-1-Practice-SE
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Assignment-1-Practice-SE/calculator.java /
-@SukumarUA
-SukumarUA Update calculator.java
-Latest commit 5ac8de5 4 hours ago
- History
- 2 contributors
-@sukumarchinthalapudi@SukumarUA
-80 lines (69 sloc)  1.93 KB
-
-
-// Replica of https://stackoverflow.com/a/2735664/3262852 since the code itself does not matter, 
-// We need to learn about working in group on github
-
 package org.com;
 
 import java.lang.*; 
@@ -107,18 +74,3 @@ public class Calculator
 
   } 
 } 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
