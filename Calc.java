@@ -1,5 +1,3 @@
-
-// Replica of https://stackoverflow.com/a/2735664/3262852 since the code itself does not matter, 
 // We need to learn about working in group on github
 
 package org.com;
@@ -29,15 +27,15 @@ public class Calculator
     { 
        //return x - y; 
     } 
-    public int multiplication(int x, int y) 
-    {     
-       //return x * y; 
-    } 
     public int division(int x, int y) 
     { 
        //solution = x / y; 
        //return solution; 
-    } 
+    }
+    public multiplication(int x, int y)
+    {
+        // return x *y;
+	}
 
     public void calc(int ops){
          x = 4; 
