@@ -29,7 +29,7 @@ public class Calculator
     }
     public int division(int x, int y) 
     { 
-       solution = x / y;  
+       return = x / y;  
     }
     public multiplication(int x, int y)
     {
